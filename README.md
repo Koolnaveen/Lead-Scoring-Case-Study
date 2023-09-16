@@ -14,9 +14,9 @@ An education company named X Education sells online courses to industry professi
 - Prediction on test set
 - Precision- Recall
 ## Details of files given
-- Lead Score Case Study Aayushi Meenu .ipynb : The python file showing coding and data analysis
-- Assignment Subjective Questions.pdf : Some subjective questions answered
-- Lead Score Case Study.pdf : Final Presentation
+- Lead_Scoreing_Case_Study -Assignment.ipynb : The python file showing coding and data analysis
+- Assignment Subjective Question and Answer.pdf : Some subjective questions answered
+- Lead Scoring Case Study Presentation.pdf : Final Presentation
 - Leads.csv : Data worked on
 - Leads Data Dictionary.xlsx : Data Dictionary
-- Summary.pdf : Summary on what's done in the entire py file
+- Summary_case_study.pdf : Summary on what's done in the entire py file
